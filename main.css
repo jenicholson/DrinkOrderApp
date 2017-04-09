@@ -1,11 +1,19 @@
-.none { 
-	color: gray; 
+h1 {
+	color: #ffffff;
 }
 
-.queued { 
-	color: orange; 
+h2 {
+	color: #ffffff;
 }
 
-.ready { 
-	color: green; 
+.none {
+	color: gray;
+}
+
+.queued {
+	color: orange;
+}
+
+.ready {
+	color: green;
 }
